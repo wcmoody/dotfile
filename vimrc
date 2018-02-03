@@ -13,6 +13,4 @@ au BufNewFile,BufRead *.html set tabstop=4 softtabstop=4 shiftwidth=4 textwidth=
 " show line numbers
 set number
 
-set color=desert
-
-
+imap jj <Esc>
